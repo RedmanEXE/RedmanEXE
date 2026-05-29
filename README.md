@@ -19,12 +19,12 @@ By languages (most-less used):
 
 ## Featured projects
 - As an open-source software:
-  - [C]: [tioo](https://github.com/RedmanEXE/tioo) - simple microkernel for MCUs
-  - [C]: [lodit!](https://github.com/RedmanEXE/lodit) - framework, that can be used to develop universal bytecode for x86-16 and x86-32 architectures
-  - [C++, Java]: [cf-extensions](https://github.com/RedmanEXE/cf-extensions) - extensions for Clickteam Fusion 2.5
+  - <img src="./resources/c.webp" width="32">: [tioo](https://github.com/RedmanEXE/tioo) - simple microkernel for MCUs
+  - <img src="./resources/c.webp" width="32">: [lodit!](https://github.com/RedmanEXE/lodit) - framework, that can be used to develop universal bytecode for x86-16 and x86-32 architectures
+  - <img src="./resources/cpp.webp" width="32"> <img src="./resources/java.webp" width="32">: [cf-extensions](https://github.com/RedmanEXE/cf-extensions) - extensions for Clickteam Fusion 2.5
 - Anything else:
-  - [Java, Kotlin]: [RM](https://play.google.com/store/apps/details?id=dev.rexe.redm) - comics (or manga) reader with big amount of settings
-  - [CF2.5]: [GJ API: RMod](https://gamejolt.com/games/gj_api_ctf25_rmod/685662) - modded GameJolt API object for CF2.5
+  - <img src="./resources/java.webp" width="32"> <img src="./resources/kotlin.webp" width="32">: [RM](https://play.google.com/store/apps/details?id=dev.rexe.redm) - comics (or manga) reader with big amount of settings
+  - <img src="./resources/cf2.5.webp" width="32">: [GJ API: RMod](https://gamejolt.com/games/gj_api_ctf25_rmod/685662) - modded GameJolt API object for CF2.5
 
 ## Links
 - [Website](https://redmanexe.dev/)
