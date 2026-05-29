@@ -1,4 +1,4 @@
-<img src="./resources/logo.webp">
+<img src="./resources/logo.webp" style="width: auto;">
 Hello, my name is Daniil. I'm 19 y.o. and I want to be a programmer!\
 When I want to use RTOS, I develop it from scratch.
 
