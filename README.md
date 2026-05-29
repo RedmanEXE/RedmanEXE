@@ -19,12 +19,12 @@ By languages (most-less used):
 
 ## Featured projects
 - As an open-source software:
-  - <img src="./resources/c.webp" width="32">: [tioo](https://github.com/RedmanEXE/tioo) - simple microkernel for MCUs
-  - <img src="./resources/c.webp" width="32">: [lodit!](https://github.com/RedmanEXE/lodit) - framework, that can be used to develop universal bytecode for x86-16 and x86-32 architectures
-  - <img src="./resources/cpp.webp" width="32"> <img src="./resources/java.webp" width="32">: [cf-extensions](https://github.com/RedmanEXE/cf-extensions) - extensions for Clickteam Fusion 2.5
+  - <img src="./resources/c.webp" width="20" style="vertical-align: middle;">: [tioo](https://github.com/RedmanEXE/tioo) - simple microkernel for MCUs
+  - <img src="./resources/c.webp" width="20" style="vertical-align: middle;">: [lodit!](https://github.com/RedmanEXE/lodit) - framework, that can be used to develop universal bytecode for x86-16 and x86-32 architectures
+  - <img src="./resources/cpp.webp" width="20" style="vertical-align: middle;"> <img src="./resources/java.webp" width="20" style="vertical-align: middle;">: [cf-extensions](https://github.com/RedmanEXE/cf-extensions) - extensions for Clickteam Fusion 2.5
 - Anything else:
-  - <img src="./resources/java.webp" width="32"> <img src="./resources/kotlin.webp" width="32">: [RM](https://play.google.com/store/apps/details?id=dev.rexe.redm) - comics (or manga) reader with big amount of settings
-  - <img src="./resources/cf2.5.webp" width="32">: [GJ API: RMod](https://gamejolt.com/games/gj_api_ctf25_rmod/685662) - modded GameJolt API object for CF2.5
+  - <img src="./resources/java.webp" width="20" style="vertical-align: middle;"> <img src="./resources/kotlin.webp" width="20" style="vertical-align: middle;">: [RM](https://play.google.com/store/apps/details?id=dev.rexe.redm) - comics (or manga) reader with big amount of settings
+  - <img src="./resources/cf2.5.webp" width="20" style="vertical-align: middle;">: [GJ API: RMod](https://gamejolt.com/games/gj_api_ctf25_rmod/685662) - modded GameJolt API object for CF2.5
 
 ## Links
 - [Website](https://redmanexe.dev/)
