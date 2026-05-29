@@ -28,9 +28,9 @@ By languages (most-less used):
 
 ## Links
 <div align="center">
-  <a href="https://redmanexe.dev/"><img src="./resources/website_btn.webp" width="140"></a>
-  <a href="https://t.me/redmanexe/"><img src="./resources/telegram_btn.webp" width="140"></a>
-  <a href="https://www.linkedin.com/in/daniil-struts/"><img src="./resources/linkedin_btn.webp" width="140"></a>
-  <a href="https://leetcode.com/u/RedmanEXE/"><img src="./resources/leetcode_btn.webp" width="140"></a>
-  <a href="https://gamejolt.com/@REXE/"><img src="./resources/gamejolt_btn.webp" width="140"></a>
+  <a href="https://redmanexe.dev/"><img src="./resources/website_btn.webp" width="160"></a>
+  <a href="https://t.me/redmanexe/"><img src="./resources/telegram_btn.webp" width="160"></a>
+  <a href="https://www.linkedin.com/in/daniil-struts/"><img src="./resources/linkedin_btn.webp" width="160"></a>
+  <a href="https://leetcode.com/u/RedmanEXE/"><img src="./resources/leetcode_btn.webp" width="160"></a>
+  <a href="https://gamejolt.com/@REXE/"><img src="./resources/gamejolt_btn.webp" width="160"></a>
 </div>
