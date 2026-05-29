@@ -27,7 +27,10 @@ By languages (most-less used):
   - <img src="./resources/cf2.5.webp" width="20" align="absmiddle">: [GJ API: RMod](https://gamejolt.com/games/gj_api_ctf25_rmod/685662) - modded GameJolt API object for CF2.5
 
 ## Links
-- [Website](https://redmanexe.dev/)
-- [Telegram](https://t.me/redmanexe/), [channel](https://t.me/rexe_swamp/)
-- [LinkedIn](https://www.linkedin.com/in/daniil-struts/), [LeetCode](https://leetcode.com/u/RedmanEXE/)
-- [GameJolt](https://gamejolt.com/@REXE/), [Discord](https://discord.gg/u/853133130328571904/)
+<div align="center">
+  <a href="https://redmanexe.dev/"><img src="./resources/website_btn.webp" width="140"></a>
+  <a href="https://t.me/redmanexe/"><img src="./resources/telegram_btn.webp" width="140"></a>
+  <a href="https://www.linkedin.com/in/daniil-struts/"><img src="./resources/linkedin_btn.webp" width="140"></a>
+  <a href="https://leetcode.com/u/RedmanEXE/"><img src="./resources/leetcode_btn.webp" width="140"></a>
+  <a href="https://gamejolt.com/@REXE/"><img src="./resources/gamejolt_btn.webp" width="140"></a>
+</div>
