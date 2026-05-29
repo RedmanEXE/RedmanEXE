@@ -1,6 +1,5 @@
-<img src="./resources/logo.webp" style="width: auto;">
-Hello, my name is Daniil. I'm 19 y.o. and I want to be a programmer!\
-When I want to use RTOS, I develop it from scratch.
+<img src="./resources/logo.webp" style="width: 100%;">
+Hello, my name is Daniil. I'm 19 y.o. and I want to be a programmer! When I want to use RTOS, I develop it from scratch.
 
 ## Skills
 - **Embedded and low-level: C, ASM (flat assembler for x86-16, x86-32)**
