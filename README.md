@@ -2,12 +2,12 @@
 Hello, my name is Daniil. I'm 19 y.o. and I want to be a programmer!
 
 ## Skills
-- **Embedded and low-level: C, ASM (flat assembler for x86-16, x86-32)**
-- Android development: Kotlin (Compose), Java
-- Desktop development: Linux API, WinAPI, macOS (Swift 4 + SwiftUI)
-- Games!: Clickteam Fusion 2.5, GameMaker (ex. GMS 2), **Godot**
-- *And simple web development: Vue.JS, FastAPI*
-- *Discord bots with Discord.JS*
+- <img src="./resources/embedded.webp" width="20" align="absmiddle"> **Embedded and low-level: C, ASM (flat assembler for x86-16, x86-32)**
+- <img src="./resources/android.webp" width="20" align="absmiddle"> Android development: Kotlin (Compose), Java
+- <img src="./resources/desktop.webp" width="20" align="absmiddle"> Desktop development: Linux API, WinAPI, macOS (Swift 4 + SwiftUI)
+- <img src="./resources/games.webp" width="20" align="absmiddle"> Games!: Clickteam Fusion 2.5, GameMaker (ex. GMS 2), **Godot**
+- <img src="./resources/web.webp" width="20" align="absmiddle"> *And simple web development: Vue.JS, FastAPI*
+- <img src="./resources/bots.webp" width="20" align="absmiddle"> *Discord bots with Discord.JS*
 
 By languages (most-less used):
 1. **<img src="./resources/c.webp" width="20" align="absmiddle"> C, <img src="./resources/asm.webp" width="20" align="absmiddle"> ASM**
