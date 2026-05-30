@@ -1,5 +1,5 @@
 <img src="./resources/logo.webp" style="width: 100%;">
-Hello, my name is Daniil. I want to be a programmer!
+Hello, my name is Daniil!
 
 ## Skills
 - <img src="./resources/embedded.webp" width="20" align="absmiddle"> **Embedded and low-level: C, ASM (flat assembler for x86-16, x86-32)**
