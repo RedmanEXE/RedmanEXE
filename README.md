@@ -10,12 +10,12 @@ Hello, my name is Daniil. I'm 19 y.o. and I want to be a programmer!
 - *Discord bots with Discord.JS*
 
 By languages (most-less used):
-1. **C, ASM**
-2. **Kotlin, Java**
-3. Swift
-4. Python
-5. *C++, JavaScript (node.js too)*
-6. *GDScript, C#, GML (GameMaker Language)*
+1. **<img src="./resources/c.webp" width="20" align="absmiddle"> C, <img src="./resources/asm.webp" width="20" align="absmiddle"> ASM**
+2. **<img src="./resources/kotlin.webp" width="20" align="absmiddle"> Kotlin, <img src="./resources/java.webp" width="20" align="absmiddle"> Java**
+3. <img src="./resources/swift.webp" width="20" align="absmiddle"> Swift
+4. <img src="./resources/python.webp" width="20" align="absmiddle"> Python
+5. *<img src="./resources/cpp.webp" width="20" align="absmiddle"> C++, <img src="./resources/javascript.webp" width="20" align="absmiddle"> JavaScript (node.js too)*
+6. *<img src="./resources/gdscript.webp" width="20" align="absmiddle"> GDScript, <img src="./resources/cs.webp" width="20" align="absmiddle"> C#, <img src="./resources/gml.webp" width="20" align="absmiddle"> GML (GameMaker Language)*
 
 ## Featured projects
 - As an open-source software:
